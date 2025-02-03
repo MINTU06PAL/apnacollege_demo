@@ -1,2 +1,2 @@
 # apnacollege_demo
-Author - Mintu kumar pal
+Author - Mintu kr pal
